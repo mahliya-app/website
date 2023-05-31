@@ -1,3 +1,3 @@
 ---
-title: Let's talk about everything
+title: Let's talk
 ---

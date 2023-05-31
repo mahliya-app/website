@@ -15,7 +15,7 @@
 .btn-primary {
   position: relative;
   border: 2px solid $primary-color;
-  color: $primary-color;
+  color: red;
   text-transform: uppercase;
   background: $white;
 
@@ -122,7 +122,7 @@
     text-decoration: none;
     background-color: $primary-color;
     border-color: $primary-color;
-    box-shadow: 0px 8px 20px rgba(254, 115, 128, 0.3);
+    box-shadow: 0px 8px 20px rgba(255, 225, 102, 1);
     transform: scale(1.05);
 
     i {
@@ -147,7 +147,7 @@
   font-weight: 500;
   font-size: 14px;
   font-family: $primary-font;
-  box-shadow: 0px 8px 20px rgba(255, 115, 128, 0.3);
+  box-shadow: 0px 8px 20px rgba(255, 225, 102, 0.3);
   transition: 0.3s $site-ease;
   text-transform: uppercase;
   &:hover {

@@ -1,9 +1,11 @@
 ---
 enable: true
-title: Turn your business to next level
-caption: Networking
-description: Enjoy team diversity and increase their networks among others people in various fields by providing an exceptional facilities and coworking.
+title: Mahliya
+caption: "Your one-stop-shop for home businesses"
+description: "Mahliya aims to provide a platform for up-and-coming local businesses based in the United Arab Emirates. We aim to provide a better connection between local businesses and their customers and, in turn, allow shoppers in the UAE to gain access to the available range of home businesses"
 buttonName: Available on
 button1text: Apple Store
 button2text: Google Play
-image: images/hero/hero-image.svg
+image: images/app_image.svg
+apple_app_link: "https://www.apple.com/app-store/"
+android_app_link: "https://play.google.com"

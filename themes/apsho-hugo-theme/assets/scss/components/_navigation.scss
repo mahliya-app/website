@@ -46,7 +46,7 @@
     img {
       width: 100px;
       @include mobile {
-        width: 80px;
+        width: 50px;
       }
     }
   }

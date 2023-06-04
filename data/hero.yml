@@ -6,6 +6,7 @@ description: "Mahliya aims to provide a platform for up-and-coming local busines
 buttonName: Available on
 button1text: Apple Store
 button2text: Google Play
-image: images/app_image.svg
+hero_image: images/app_image.svg
+logo_name: images/logo-name.png
 apple_app_link: "https://www.apple.com/app-store/"
 android_app_link: "https://play.google.com"
